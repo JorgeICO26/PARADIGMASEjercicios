@@ -4,7 +4,7 @@ public class Persona {
      String sexo;
     String direccion;
     public void mostrarInfo(){
-        System.out.println();
+        System.out.println("Nombre");
     }
 
 }
